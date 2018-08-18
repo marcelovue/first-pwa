@@ -1,0 +1,20 @@
+{
+  "name": "Mordecai",
+  "short_name": "Mord",
+  "lang": "en-GB",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#FF8356",
+  "icons": [
+    {
+      "src": "mordecai.ico",
+      "sizes": "256x256",
+      "type": "image/ico"
+    },
+    {
+      "src":"mordecai-144.png",
+      "sizes":"144x144 64x64 32x32 24x24 16x16",
+      "type":"image/png"
+    }
+  ]
+}
